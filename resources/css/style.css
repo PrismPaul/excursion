@@ -1,0 +1,16 @@
+p  {
+    background-color: black;
+}
+h1 {
+    color: white;
+    text-align: center;
+}
+body {
+    background-color: black;
+    max-width: 500px;
+    margin: auto;
+}
+.downloadlink {
+    color: aquamarine;
+    text-align: center;
+}
